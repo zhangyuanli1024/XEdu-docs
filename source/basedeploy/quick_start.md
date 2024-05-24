@@ -16,7 +16,7 @@
 
 文档涉及的部分代码见XEdu帮助文档配套项目集：[https://www.openinnolab.org.cn/pjlab/project?id=64f54348e71e656a521b0cb5&sc=645caab8a8efa334b3f0eb24#public](https://www.openinnolab.org.cn/pjlab/project?id=64f54348e71e656a521b0cb5&sc=645caab8a8efa334b3f0eb24#public)
 
-**【强调】：2023年10月，XEdu心推出了XEduhub，已经提供了模型推理工具，BaseDeploy将重点关注模型部署于更多开源硬件之上，关注模型的转换。如果仅仅是推理模型，建议使用XEduhub。**
+**【强调】：2023年10月，XEdu新推出了XEduhub，已经提供了模型推理工具，BaseDeploy将重点关注模型部署于更多开源硬件之上，关注模型的转换。如果仅仅是推理模型，建议使用XEduhub。**
 
 ## 示例代码
 
